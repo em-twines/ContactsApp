@@ -1,1 +1,1 @@
-# ContactsApp
+# ContactsApp is an app created by following along with a tutorial on Node.js and Express here: https://youtu.be/H9M02of22z4?si=ZkQmzmPgZVZQUV6I. It is not an original project, but is rather my first foray into JS backend technologies and MongoDB.
